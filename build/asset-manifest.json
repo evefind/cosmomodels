@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.540ea11f.css",
-    "main.js": "/static/js/main.be9b97d2.js",
+    "main.css": "/static/css/main.95e6e318.css",
+    "main.js": "/static/js/main.e3038a2a.js",
     "static/js/453.8c70df63.chunk.js": "/static/js/453.8c70df63.chunk.js",
     "static/media/freccie1.png": "/static/media/freccie1.11db4949593661a0de11.png",
     "static/media/v2.png": "/static/media/v2.2a32de41743b65efc492.png",
@@ -87,12 +87,12 @@
     "static/media/logo-removebg-preview (1).png": "/static/media/logo-removebg-preview (1).d092f0d9cfb8fababebd.png",
     "static/media/logo.png": "/static/media/logo.610a128b5758d9ee4b08.png",
     "index.html": "/index.html",
-    "main.540ea11f.css.map": "/static/css/main.540ea11f.css.map",
-    "main.be9b97d2.js.map": "/static/js/main.be9b97d2.js.map",
+    "main.95e6e318.css.map": "/static/css/main.95e6e318.css.map",
+    "main.e3038a2a.js.map": "/static/js/main.e3038a2a.js.map",
     "453.8c70df63.chunk.js.map": "/static/js/453.8c70df63.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.540ea11f.css",
-    "static/js/main.be9b97d2.js"
+    "static/css/main.95e6e318.css",
+    "static/js/main.e3038a2a.js"
   ]
 }
